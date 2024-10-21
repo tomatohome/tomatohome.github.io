@@ -34,18 +34,6 @@
       </tags>
   </entry>
   <entry>
-    <title>分类</title>
-    <url>/categories/index.html</url>
-    <content><![CDATA[<p>这是分类</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>关于本博客</title>
-    <url>/about/index.html</url>
-    <content><![CDATA[<p>没什么好说的啊。</p>
-]]></content>
-  </entry>
-  <entry>
     <title>404</title>
     <url>/404/index.html</url>
     <content><![CDATA[<script src="//qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js" charset="utf-8" homepageurl="/" homepagename="Back to home">
@@ -53,9 +41,21 @@
 ]]></content>
   </entry>
   <entry>
+    <title>分类</title>
+    <url>/categories/index.html</url>
+    <content><![CDATA[<p>这是分类</p>
+]]></content>
+  </entry>
+  <entry>
     <title>标签</title>
     <url>/tags/index.html</url>
     <content><![CDATA[<p>这是标签</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>关于本博客</title>
+    <url>/about/index.html</url>
+    <content><![CDATA[<p>没什么好说的啊。</p>
 ]]></content>
   </entry>
 </search>
