@@ -5,23 +5,32 @@
     <url>/2024/10/21/hello-world/</url>
     <content><![CDATA[<p>这是一个部署在Github上，利用Hexo搭建的博客。<br>优势是免费！非常丝滑！不用买域名！不需要vpn直连即可！想搞成啥样搞成啥样！<br>缺点是要找教程，并且我已经把坑踩完了。<br>其实根本就没有想好要干什么，也许以后会变成低技术力的技术向博客。<br>或者变成oc博客同人博客之类的。</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>测试一下tag2</title>
-    <url>/2024/10/19/test2/</url>
-    <content><![CDATA[<p>更换了md渲染方式</p>
-]]></content>
-      <tags>
-        <tag>轻微谢顶</tag>
-      </tags>
+      <categories>
+        <category>不嘻嘻</category>
+      </categories>
   </entry>
   <entry>
     <title>测试一下tag</title>
     <url>/2024/10/19/test1/</url>
     <content><![CDATA[<h1><span id="真让人养胃啊-这是h1标题">真让人养胃啊 这是h1标题</span></h1><h2><span id="真让人养胃啊-这是h2标题">真让人养胃啊 这是h2标题</span></h2><h3><span id="真让人养胃啊-这是h3标题">真让人养胃啊 这是h3标题</span></h3><p><em>真让人养胃啊</em> 这是斜体<br><strong>真让人养胃啊</strong> 这是粗体<br>这是正文</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">#这是代码</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>不嘻嘻</category>
+      </categories>
       <tags>
         <tag>深度养胃</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>测试一下tag2</title>
+    <url>/2024/10/19/test2/</url>
+    <content><![CDATA[<p>更换了md渲染方式</p>
+]]></content>
+      <categories>
+        <category>嘻嘻</category>
+      </categories>
+      <tags>
+        <tag>轻微谢顶</tag>
       </tags>
   </entry>
 </search>

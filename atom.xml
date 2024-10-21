@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-10-21T11:48:26.585Z</updated>
+  <updated>2024-10-21T12:17:40.524Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2024/10/21/hello-world/"/>
     <id>http://example.com/2024/10/21/hello-world/</id>
     <published>2024-10-20T16:00:00.000Z</published>
-    <updated>2024-10-21T11:48:26.585Z</updated>
+    <updated>2024-10-21T12:17:40.524Z</updated>
     
     <content type="html"><![CDATA[<p>这是一个部署在Github上，利用Hexo搭建的博客。<br>优势是免费！非常丝滑！不用买域名！不需要vpn直连即可！想搞成啥样搞成啥样！<br>缺点是要找教程，并且我已经把坑踩完了。<br>其实根本就没有想好要干什么，也许以后会变成低技术力的技术向博客。<br>或者变成oc博客同人博客之类的。</p>]]></content>
     
@@ -33,6 +33,32 @@
     
     
     
+    <category term="不嘻嘻" scheme="http://example.com/categories/%E4%B8%8D%E5%98%BB%E5%98%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>测试一下tag</title>
+    <link href="http://example.com/2024/10/19/test1/"/>
+    <id>http://example.com/2024/10/19/test1/</id>
+    <published>2024-10-18T16:00:00.000Z</published>
+    <updated>2024-10-21T12:17:49.046Z</updated>
+    
+    <content type="html"><![CDATA[<h1><span id="真让人养胃啊-这是h1标题">真让人养胃啊 这是h1标题</span></h1><h2><span id="真让人养胃啊-这是h2标题">真让人养胃啊 这是h2标题</span></h2><h3><span id="真让人养胃啊-这是h3标题">真让人养胃啊 这是h3标题</span></h3><p><em>真让人养胃啊</em> 这是斜体<br><strong>真让人养胃啊</strong> 这是粗体<br>这是正文</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">#这是代码</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;&lt;span id=&quot;真让人养胃啊-这是h1标题&quot;&gt;真让人养胃啊 这是h1标题&lt;/span&gt;&lt;/h1&gt;&lt;h2&gt;&lt;span id=&quot;真让人养胃啊-这是h2标题&quot;&gt;真让人养胃啊 这是h2标题&lt;/span&gt;&lt;/h2&gt;&lt;h3&gt;&lt;span id=&quot;真让人养胃啊-这是h3标题&quot;&gt;真让人</summary>
+      
+    
+    
+    
+    <category term="不嘻嘻" scheme="http://example.com/categories/%E4%B8%8D%E5%98%BB%E5%98%BB/"/>
+    
+    
+    <category term="深度养胃" scheme="http://example.com/tags/%E6%B7%B1%E5%BA%A6%E5%85%BB%E8%83%83/"/>
     
   </entry>
   
@@ -41,7 +67,7 @@
     <link href="http://example.com/2024/10/19/test2/"/>
     <id>http://example.com/2024/10/19/test2/</id>
     <published>2024-10-18T16:00:00.000Z</published>
-    <updated>2024-10-19T12:55:00.615Z</updated>
+    <updated>2024-10-21T12:17:54.736Z</updated>
     
     <content type="html"><![CDATA[<p>更换了md渲染方式</p>]]></content>
     
@@ -54,30 +80,10 @@
     
     
     
+    <category term="嘻嘻" scheme="http://example.com/categories/%E5%98%BB%E5%98%BB/"/>
+    
     
     <category term="轻微谢顶" scheme="http://example.com/tags/%E8%BD%BB%E5%BE%AE%E8%B0%A2%E9%A1%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试一下tag</title>
-    <link href="http://example.com/2024/10/19/test1/"/>
-    <id>http://example.com/2024/10/19/test1/</id>
-    <published>2024-10-18T16:00:00.000Z</published>
-    <updated>2024-10-21T11:52:12.101Z</updated>
-    
-    <content type="html"><![CDATA[<h1><span id="真让人养胃啊-这是h1标题">真让人养胃啊 这是h1标题</span></h1><h2><span id="真让人养胃啊-这是h2标题">真让人养胃啊 这是h2标题</span></h2><h3><span id="真让人养胃啊-这是h3标题">真让人养胃啊 这是h3标题</span></h3><p><em>真让人养胃啊</em> 这是斜体<br><strong>真让人养胃啊</strong> 这是粗体<br>这是正文</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">#这是代码</span><br></pre></td></tr></table></figure>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1&gt;&lt;span id=&quot;真让人养胃啊-这是h1标题&quot;&gt;真让人养胃啊 这是h1标题&lt;/span&gt;&lt;/h1&gt;&lt;h2&gt;&lt;span id=&quot;真让人养胃啊-这是h2标题&quot;&gt;真让人养胃啊 这是h2标题&lt;/span&gt;&lt;/h2&gt;&lt;h3&gt;&lt;span id=&quot;真让人养胃啊-这是h3标题&quot;&gt;真让人</summary>
-      
-    
-    
-    
-    
-    <category term="深度养胃" scheme="http://example.com/tags/%E6%B7%B1%E5%BA%A6%E5%85%BB%E8%83%83/"/>
     
   </entry>
   
