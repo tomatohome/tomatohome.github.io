@@ -10,6 +10,18 @@
       </categories>
   </entry>
   <entry>
+    <title>测试一下tag</title>
+    <url>/2024/10/19/test1/</url>
+    <content><![CDATA[<h1><span id="真让人养胃啊-这是h1标题">真让人养胃啊 这是h1标题</span></h1><h2><span id="真让人养胃啊-这是h2标题">真让人养胃啊 这是h2标题</span></h2><h3><span id="真让人养胃啊-这是h3标题">真让人养胃啊 这是h3标题</span></h3><p><em>真让人养胃啊</em> 这是斜体<br><strong>真让人养胃啊</strong> 这是粗体<br>这是正文</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">#这是代码</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>不嘻嘻</category>
+      </categories>
+      <tags>
+        <tag>深度养胃</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>测试一下tag2</title>
     <url>/2024/10/19/test2/</url>
     <content><![CDATA[<p>更换了md渲染方式</p>
@@ -22,15 +34,28 @@
       </tags>
   </entry>
   <entry>
-    <title>测试一下tag</title>
-    <url>/2024/10/19/test1/</url>
-    <content><![CDATA[<h1><span id="真让人养胃啊-这是h1标题">真让人养胃啊 这是h1标题</span></h1><h2><span id="真让人养胃啊-这是h2标题">真让人养胃啊 这是h2标题</span></h2><h3><span id="真让人养胃啊-这是h3标题">真让人养胃啊 这是h3标题</span></h3><p><em>真让人养胃啊</em> 这是斜体<br><strong>真让人养胃啊</strong> 这是粗体<br>这是正文</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">#这是代码</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>不嘻嘻</category>
-      </categories>
-      <tags>
-        <tag>深度养胃</tag>
-      </tags>
+    <title>404</title>
+    <url>/404/index.html</url>
+    <content><![CDATA[<script src="//qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js" charset="utf-8" homepageurl="/" homepagename="Back to home">
+</script>
+]]></content>
+  </entry>
+  <entry>
+    <title>关于本博客</title>
+    <url>/about/index.html</url>
+    <content><![CDATA[<p>没什么好说的啊。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>分类</title>
+    <url>/categories/index.html</url>
+    <content><![CDATA[<p>这是分类</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>标签</title>
+    <url>/tags/index.html</url>
+    <content><![CDATA[<p>这是标签</p>
+]]></content>
   </entry>
 </search>
