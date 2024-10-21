@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-10-19T09:48:56.289Z</updated>
+  <updated>2024-10-21T11:26:21.194Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,22 +17,51 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2024/10/19/hello-world/"/>
-    <id>http://example.com/2024/10/19/hello-world/</id>
-    <published>2024-10-19T09:48:56.289Z</published>
-    <updated>2024-10-19T09:48:56.289Z</updated>
+    <title>欢迎来到狗の蛋的博客</title>
+    <link href="http://example.com/2024/10/21/hello-world/"/>
+    <id>http://example.com/2024/10/21/hello-world/</id>
+    <published>2024-10-20T16:00:00.000Z</published>
+    <updated>2024-10-21T11:26:21.194Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2><span id="quick-start">Quick Start</span></h2><h3><span id="create-a-new-post">Create a new post</span></h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3><span id="run-server">Run server</span></h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3><span id="generate-static-files">Generate static files</span></h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3><span id="deploy-to-remote-sites">Deploy to remote sites</span></h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>这是一个部署在Github上，利用Hexo搭建的博客。<br>优势是免费！非常丝滑！不用买域名！不需要vpn直连即可！想搞成啥样搞成啥样！<br>缺点是要找教程，我已经把坑踩完了。<br>其实根本就没有想好要干什么，也许以后会变成低技术力的技术向博客。<br>或者变成oc博客同人博客之类的。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;这是一个部署在Github上，利用Hexo搭建的博客。&lt;br&gt;
+优势是免费！非常丝滑！不用买域名！不需要vpn直连即可！想搞成啥样搞成啥样！&lt;br&gt;
+缺点是要找教程，我已经把坑踩完了。&lt;br&gt;
+其实根本就没有想好要干什么，也许以后会变成低技术力的技术向博客。&lt;br&gt;
+或者变</summary>
       
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>测试一下tag</title>
+    <link href="http://example.com/2024/10/19/test1/"/>
+    <id>http://example.com/2024/10/19/test1/</id>
+    <published>2024-10-18T16:00:00.000Z</published>
+    <updated>2024-10-19T12:55:03.592Z</updated>
+    
+    <content type="html"><![CDATA[<h1><span id="真让人养胃啊">真让人养胃啊</span></h1><h2><span id="真让人养胃啊">真让人养胃啊</span></h2><h3><span id="真让人养胃啊">真让人养胃啊</span></h3><p><em>真让人养胃啊</em><br><strong>真让人养胃啊</strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;&lt;span id=&quot;真让人养胃啊&quot;&gt;真让人养胃啊&lt;/span&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;span id=&quot;真让人养胃啊&quot;&gt;真让人养胃啊&lt;/span&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;span id=&quot;真让人养胃啊&quot;&gt;真让人养胃啊&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;真让人养胃啊&lt;/em</summary>
+      
+    
+    
+    
+    
+    <category term="深度养胃" scheme="http://example.com/tags/%E6%B7%B1%E5%BA%A6%E5%85%BB%E8%83%83/"/>
     
   </entry>
   
@@ -56,28 +85,6 @@
     
     
     <category term="轻微谢顶" scheme="http://example.com/tags/%E8%BD%BB%E5%BE%AE%E8%B0%A2%E9%A1%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试一下tag</title>
-    <link href="http://example.com/2024/10/19/test1/"/>
-    <id>http://example.com/2024/10/19/test1/</id>
-    <published>2024-10-18T16:00:00.000Z</published>
-    <updated>2024-10-19T12:55:03.592Z</updated>
-    
-    <content type="html"><![CDATA[<h1><span id="真让人养胃啊">真让人养胃啊</span></h1><h2><span id="真让人养胃啊">真让人养胃啊</span></h2><h3><span id="真让人养胃啊">真让人养胃啊</span></h3><p><em>真让人养胃啊</em><br><strong>真让人养胃啊</strong></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1&gt;&lt;span id=&quot;真让人养胃啊&quot;&gt;真让人养胃啊&lt;/span&gt;&lt;/h1&gt;&lt;h2&gt;&lt;span id=&quot;真让人养胃啊&quot;&gt;真让人养胃啊&lt;/span&gt;&lt;/h2&gt;&lt;h3&gt;&lt;span id=&quot;真让人养胃啊&quot;&gt;真让人养胃啊&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;em&gt;真让人养胃啊&lt;/em&gt;&lt;b</summary>
-      
-    
-    
-    
-    
-    <category term="深度养胃" scheme="http://example.com/tags/%E6%B7%B1%E5%BA%A6%E5%85%BB%E8%83%83/"/>
     
   </entry>
   
