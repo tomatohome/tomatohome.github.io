@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>我相信这里不会成为停车场</title>
   
-  <subtitle>因为我不是那样的人！</subtitle>
+  <subtitle>因为我不是那样的人</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
