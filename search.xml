@@ -50,9 +50,9 @@
 ]]></content>
   </entry>
   <entry>
-    <title>分类</title>
-    <url>/categories/index.html</url>
-    <content><![CDATA[<p>这是分类</p>
+    <title>关于本博客</title>
+    <url>/about/index.html</url>
+    <content><![CDATA[<p>没什么好说的啊。</p>
 ]]></content>
   </entry>
   <entry>
@@ -62,9 +62,9 @@
 ]]></content>
   </entry>
   <entry>
-    <title>关于本博客</title>
-    <url>/about/index.html</url>
-    <content><![CDATA[<p>没什么好说的啊。</p>
+    <title>分类</title>
+    <url>/categories/index.html</url>
+    <content><![CDATA[<p>这是分类</p>
 ]]></content>
   </entry>
 </search>
