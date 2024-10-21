@@ -34,10 +34,9 @@
       </tags>
   </entry>
   <entry>
-    <title>404</title>
-    <url>/404/index.html</url>
-    <content><![CDATA[<script src="//qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js" charset="utf-8" homepageurl="/" homepagename="Back to home">
-</script>
+    <title>分类</title>
+    <url>/categories/index.html</url>
+    <content><![CDATA[<p>这是分类</p>
 ]]></content>
   </entry>
   <entry>
@@ -47,9 +46,10 @@
 ]]></content>
   </entry>
   <entry>
-    <title>分类</title>
-    <url>/categories/index.html</url>
-    <content><![CDATA[<p>这是分类</p>
+    <title>404</title>
+    <url>/404/index.html</url>
+    <content><![CDATA[<script src="//qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js" charset="utf-8" homepageurl="/" homepagename="Back to home">
+</script>
 ]]></content>
   </entry>
   <entry>
